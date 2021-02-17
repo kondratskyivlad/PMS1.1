@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  PMS1.1
+//
+//  Created by Влад Кондрацький on 17.02.2021.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
